@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "live-server": "^1.2.1"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
   }
 }

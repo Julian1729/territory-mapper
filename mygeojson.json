@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.02338,
+          -75.12142
+        ]
+      },
+      "properties": {
+        "name": "Julian's House"
+      }
+    }
+    
+  ]
+}
