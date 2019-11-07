@@ -1,0 +1,146 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+
+    {
+      "type": "Feature",
+      "properties": {
+        "street": "Dickinson",
+        "number": "808"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1586863,
+          39.930315
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "street": "Dickinson",
+        "number": "810"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1588547,
+          39.9303268
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "street": "Dickinson",
+        "number": "812"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1587984,
+          39.9303343
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "street": "Dickinson",
+        "number": "814"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1588547,
+          39.9303424
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "street": "Dickinson",
+        "number": "818"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1589683
+          ,
+          39.9303571
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "street": "Dickinson",
+        "number": "820"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1590814
+          ,
+          39.9303723
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "street": "Dickinson",
+        "number": "822"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1590814
+          ,
+          39.9303723
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "street": "Dickinson",
+        "number": "824"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1591389
+          ,
+          39.9303769
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "street": "Dickinson",
+        "number": "826"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1591936
+          ,
+          39.9303851
+        ]
+      }
+    }
+
+  ]
+}
