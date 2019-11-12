@@ -10,9 +10,9 @@ function initMap() {
     mapTypeId: 'roadmap'
   });
 
-  map.addListener('bounds_changed', function(e){
-    console.log(e, 'bounds_changed');
-  });
+  // map.addListener('bounds_changed', function(e){
+  //   console.log(e, 'bounds_changed');
+  // });
 
   // move away from load geo json,
   // populate manually
