@@ -10,6 +10,12 @@ function initMap() {
     mapTypeId: 'roadmap'
   });
 
+  map.addListener('bounds_changed', function(e){
+    console.log(e, 'bounds_changed');
+  });
+
+  // move away from load geo json,
+  // populate manually
   map.data.loadGeoJson('/line.json', null, function(features){
     features.forEach(function(Feature){
       Feature.toGeoJson(function(obj){
@@ -50,3 +56,10 @@ function initMap() {
   });
 
 }
+
+setTimeout(function(){
+  console.log(map.getBounds().toJSON());
+  console.log( map.getBounds().contains({lat: 39.9303571, lng: -75.158968}) );
+  // 818 Pierce St.
+  console.log( map.getBounds().contains({lat: 39.927196, lng: -75.159613}) );
+}, 2000);
